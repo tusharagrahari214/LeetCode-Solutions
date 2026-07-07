@@ -2,11 +2,11 @@
 
 WITH rating_count AS (
         SELECT u.name AS name,
-        COUNT(*) AS r_count
+        COUNT(mr.movie_id) AS r_count
         FROM Users AS u
         LEFT JOIN MovieRating AS mr
         ON u.user_id = mr.user_id
-        GROUP BY mr.user_id
+        GROUP BY u.user_id
 
 ),
 
@@ -17,7 +17,7 @@ highest_avg_rate AS(
         LEFT JOIN MovieRating AS mr
         ON m.movie_id = mr.movie_id
         WHERE mr.created_at BETWEEN '2020-02-01' AND '2020-02-29'
-        GROUP BY mr.movie_id
+        GROUP BY m.movie_id
 
 
 )
