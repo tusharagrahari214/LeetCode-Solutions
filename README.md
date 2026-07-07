@@ -203,4 +203,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1251-average-selling-price](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1321-restaurant-growth](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
 <!---LeetCode Topics End-->
