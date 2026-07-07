@@ -199,4 +199,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [1193-monthly-transactions-i](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 <!---LeetCode Topics End-->
