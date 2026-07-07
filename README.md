@@ -191,3 +191,11 @@ I regularly revisit concepts and previously solved problems to strengthen my und
 ---
 
 Thank you for visiting my LeetCode SQL solutions repository.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1193-monthly-transactions-i](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1193-monthly-transactions-i/) | Medium |
+<!---LeetCode Topics End-->
