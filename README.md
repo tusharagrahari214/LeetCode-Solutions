@@ -202,4 +202,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1211-queries-quality-and-percentage](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1321-restaurant-growth](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 <!---LeetCode Topics End-->
