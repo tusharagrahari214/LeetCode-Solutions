@@ -205,4 +205,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1327-list-the-products-ordered-in-a-period](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
 | [1393-capital-gainloss](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1393-capital-gainloss/) | Medium |
+| [1407-top-travellers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1407-top-travellers/) | Easy |
 <!---LeetCode Topics End-->
