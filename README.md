@@ -210,4 +210,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1484-group-sold-products-by-the-date](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1587-bank-account-summary-ii/) | Easy |
 <!---LeetCode Topics End-->
