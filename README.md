@@ -206,4 +206,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1341-movie-rating](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1341-movie-rating/) | Medium |
 | [1393-capital-gainloss](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1407-top-travellers/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 <!---LeetCode Topics End-->
