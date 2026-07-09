@@ -216,4 +216,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1693-daily-leads-and-partners](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 <!---LeetCode Topics End-->
