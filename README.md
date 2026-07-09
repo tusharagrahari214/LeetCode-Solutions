@@ -212,4 +212,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1527-patients-with-a-condition](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 <!---LeetCode Topics End-->
