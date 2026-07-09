@@ -215,4 +215,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1667-fix-names-in-a-table](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 <!---LeetCode Topics End-->
