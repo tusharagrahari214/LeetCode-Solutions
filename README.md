@@ -219,4 +219,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1741-find-total-time-spent-by-each-employee](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1795-rearrange-products-table/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
