@@ -224,4 +224,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1907-count-salary-categories](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1965-employees-with-missing-information/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
