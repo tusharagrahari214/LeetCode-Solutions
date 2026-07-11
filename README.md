@@ -226,4 +226,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1965-employees-with-missing-information](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3220-odd-and-even-transactions](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
 <!---LeetCode Topics End-->
