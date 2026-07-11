@@ -223,4 +223,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [1890-the-latest-login-in-2020](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1934-confirmation-rate/) | Medium |
+| [1965-employees-with-missing-information](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->
