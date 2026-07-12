@@ -228,4 +228,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3374-first-letter-capitalization-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3374-first-letter-capitalization-ii/) | Hard |
+| [3421-find-students-who-improved](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3421-find-students-who-improved/) | Medium |
 <!---LeetCode Topics End-->
