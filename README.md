@@ -230,4 +230,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3374-first-letter-capitalization-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3421-find-students-who-improved](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3436-find-valid-emails/) | Easy |
+| [3451-find-invalid-ip-addresses](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 <!---LeetCode Topics End-->
