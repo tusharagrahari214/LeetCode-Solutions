@@ -231,4 +231,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3421-find-students-who-improved](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3436-find-valid-emails/) | Easy |
 | [3451-find-invalid-ip-addresses](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3451-find-invalid-ip-addresses/) | Hard |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 <!---LeetCode Topics End-->
