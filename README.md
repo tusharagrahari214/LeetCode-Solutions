@@ -233,5 +233,6 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3451-find-invalid-ip-addresses](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
+| [3482-analyze-organization-hierarchy](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3482-analyze-organization-hierarchy/) | Hard |
 | [3570-find-books-with-no-available-copies](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->
