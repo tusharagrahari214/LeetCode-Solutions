@@ -234,5 +234,6 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3465-find-products-with-valid-serial-numbers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3475-dna-pattern-recognition](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3482-analyze-organization-hierarchy](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3482-analyze-organization-hierarchy/) | Hard |
+| [3497-analyze-subscription-conversion](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->
