@@ -237,5 +237,6 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3497-analyze-subscription-conversion](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3521-find-product-recommendation-pairs](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 | [3554-find-category-recommendation-pairs](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3554-find-category-recommendation-pairs/) | Hard |
+| [3564-seasonal-sales-analysis](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->
