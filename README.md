@@ -239,4 +239,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3554-find-category-recommendation-pairs](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 | [3564-seasonal-sales-analysis](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
+| [3580-find-consistently-improving-employees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3580-find-consistently-improving-employees/) | Medium |
 <!---LeetCode Topics End-->
