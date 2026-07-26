@@ -240,4 +240,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3564-seasonal-sales-analysis](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3570-find-books-with-no-available-copies](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 | [3580-find-consistently-improving-employees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3580-find-consistently-improving-employees/) | Medium |
+| [3586-find-covid-recovery-patients](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3586-find-covid-recovery-patients/) | Medium |
 <!---LeetCode Topics End-->
