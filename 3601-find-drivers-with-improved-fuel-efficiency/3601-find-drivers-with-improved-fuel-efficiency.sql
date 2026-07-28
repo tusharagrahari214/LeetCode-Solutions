@@ -21,4 +21,5 @@ FROM
     T t1
     JOIN T t2 ON t1.driver_id = t2.driver_id AND t1.half < t2.half AND t1.half_avg < t2.half_avg
     JOIN drivers d ON t1.driver_id = d.driver_id
-ORDER BY efficiency_improvement DESC, d.driver_name;
+ORDER BY efficiency_improvement DESC, d.driver_name
+
