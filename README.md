@@ -243,4 +243,16 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [3586-find-covid-recovery-patients](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3586-find-covid-recovery-patients/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 | [3611-find-overbooked-employees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/3611-find-overbooked-employees/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
