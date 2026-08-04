@@ -28,4 +28,4 @@ HAVING
             ELSE 0
         END
     ) / COUNT(*) < 0.2
-ORDER BY customer_id;
+ORDER BY customer_id
