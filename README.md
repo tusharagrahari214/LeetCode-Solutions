@@ -272,6 +272,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
