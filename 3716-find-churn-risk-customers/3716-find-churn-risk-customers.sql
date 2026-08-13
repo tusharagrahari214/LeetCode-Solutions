@@ -56,4 +56,4 @@ WHERE
     AND DATEDIFF(h.last_event_date, h.start_date) >= 60
 ORDER BY
     days_as_subscriber DESC,
-    l.user_id ASC;
+    l.user_id ASC
