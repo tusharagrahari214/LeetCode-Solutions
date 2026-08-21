@@ -86,4 +86,4 @@ FROM ranked_streaks
 WHERE rn = 1
 ORDER BY
     streak_length DESC,
-    user_id ASC;
+    user_id ASC
