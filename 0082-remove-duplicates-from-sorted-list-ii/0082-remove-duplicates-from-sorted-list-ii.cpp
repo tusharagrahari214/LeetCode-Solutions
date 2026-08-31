@@ -8,7 +8,6 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
@@ -21,24 +20,18 @@ public:
 
         while (current != nullptr) {
 
-            // Check if current value is duplicated
             if (current->next != nullptr &&
                 current->val == current->next->val) {
 
-                // Skip all nodes having the same value
                 while (current->next != nullptr &&
                        current->val == current->next->val) {
 
                     current = current->next;
                 }
 
-                // Remove the entire duplicate group
                 prev->next = current->next;
-
             }
             else {
-
-                // Current node is unique
                 prev = prev->next;
             }
 
