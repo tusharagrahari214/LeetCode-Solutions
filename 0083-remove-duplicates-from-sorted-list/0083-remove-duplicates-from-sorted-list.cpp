@@ -14,17 +14,18 @@ public:
 
         ListNode* current = head;
 
-        while(current != nullptr && current->next != nullptr){
+        while (current != nullptr && current->next != nullptr) {
 
-            if(current->val == current->next->val){
+            if (current->val == current->next->val) {
+
                 current->next = current->next->next;
             }
-            else{
+            else {
+
                 current = current->next;
             }
         }
 
         return head;
     }
-
 };
