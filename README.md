@@ -251,6 +251,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -292,12 +293,22 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
