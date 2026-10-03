@@ -260,6 +260,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -281,6 +282,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0002-add-two-numbers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
