@@ -309,8 +309,13 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0087-scramble-string](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
 <!---LeetCode Topics End-->
