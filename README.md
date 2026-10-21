@@ -354,6 +354,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0098-validate-binary-search-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,6 +362,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0098-validate-binary-search-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +372,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0098-validate-binary-search-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,4 +384,5 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
