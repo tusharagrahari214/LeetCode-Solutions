@@ -293,6 +293,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +320,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0087-scramble-string](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +348,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,8 +358,10 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
