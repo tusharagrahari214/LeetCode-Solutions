@@ -315,6 +315,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +324,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0087-scramble-string](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
