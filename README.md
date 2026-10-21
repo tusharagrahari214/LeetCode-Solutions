@@ -290,6 +290,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,4 +322,12 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0087-scramble-string](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
