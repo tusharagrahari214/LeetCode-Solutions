@@ -253,6 +253,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -326,8 +327,10 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
