@@ -326,11 +326,13 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [0087-scramble-string](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
