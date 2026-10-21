@@ -302,6 +302,7 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,4 +339,16 @@ Thank you for visiting my LeetCode SQL solutions repository.
 | ------- | ------- |
 | [0089-gray-code](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tusharagrahari214/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
